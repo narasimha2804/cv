@@ -1,0 +1,26 @@
+body{
+    background-color: powderblue;
+   }
+   hr {
+    background-color:powderblue;
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+    border-color: grey;
+    
+   }
+   h1 {
+    
+     color: #5E454B;
+   }
+   h2{
+       color:#66BFBF;
+   }
+   img{
+       color:#5E454B;
+       background-color: #5E454B;
+       border-radius: 100%;
+   }
+   img:hover{
+       border-radius: 0px;
+   }
